@@ -3,7 +3,7 @@
   "version": "1.0.0-beta.15",
   "description": "Vertcoin bike-shed",
   "license": "MIT",
-  "repository": "git://github.com/vertcoin-project/vcoin.git",
+  "repository": "https://github.com/vertcoin-project/vcoin.git",
   "homepage": "https://github.com/vertcoin-project/vcoin",
   "bugs": {
     "url": "https://github.com/vertcoin-project/vcoin/issues"
@@ -26,7 +26,7 @@
     "bn.js": "4.11.8",
     "elliptic": "6.4.0",
     "n64": "0.0.18",
-    "vertcoinhash": "git://github.com/cruelnovo/vertcoinhash.git"
+    "vertcoinhash": "https://github.com/cruelnovo/vertcoinhash.git"
   },
   "optionalDependencies": {
     "bcoin-native": "0.0.23",

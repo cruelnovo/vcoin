@@ -29,7 +29,7 @@ $ npm install -g vertcoin-project/vcoin --production
 
 ``` bash
 $ curl https://keybase.io/chjj/pgp_keys.asc | gpg --import
-$ git clone git://github.com/vertcoin-project/vcoin.git
+$ git clone https://github.com/vertcoin-project/vcoin.git
 $ cd vcoin
 $ git tag
 ...

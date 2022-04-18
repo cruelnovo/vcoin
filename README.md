@@ -27,7 +27,7 @@ Try it in the browser: http://bcoin.io/browser.html
 ## Install
 
 ```
-$ git clone git://github.com/vertcoin-project/vcoin.git
+$ git clone https://github.com/vertcoin-project/vcoin.git
 $ cd vcoin
 $ npm install
 $ ./bin/vcoin
